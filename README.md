@@ -1,4 +1,5 @@
 # 📺 Video Streaming Service Design
+> 🗓️ Created during my **Freshman Year** of university.
 
 ## 🎯 Objective
 
